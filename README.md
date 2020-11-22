@@ -4,6 +4,6 @@
 
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flash, MySQL
 
-#Data Table in Pycharm
+# Data Table in Pycharm
 
 ![Data Table in Pycharm](screenshots/citiesData.JPG)
